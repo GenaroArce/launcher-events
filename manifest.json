@@ -14,6 +14,12 @@
       "size": 5308
     },
     {
+      "url": "https://raw.githubusercontent.com/GenaroArce/launcher-events/main/libraries/cpw/mods/securejarhandler/2.1.10/securejarhandler-2.1.10.jar",
+      "relative_path": "libraries/cpw/mods/securejarhandler/2.1.10/securejarhandler-2.1.10.jar",
+      "sha1": "51e6a22c6c716beb11e244bf5b8be480f51dd6b5",
+      "size": 88749
+    },
+    {
       "url": "https://raw.githubusercontent.com/GenaroArce/launcher-events/main/libraries/net/minecraftforge/bootstrap-api/2.1.8/bootstrap-api-2.1.8.jar",
       "relative_path": "libraries/net/minecraftforge/bootstrap-api/2.1.8/bootstrap-api-2.1.8.jar",
       "sha1": "f77d6527282dfc12e2460a3155467f40f9a2673b",
