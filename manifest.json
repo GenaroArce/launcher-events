@@ -5,13 +5,13 @@
       "url": "https://raw.githubusercontent.com/GenaroArce/launcher-events/main/libraries/net/minecraftforge/binarypatcher/1.1.1/binarypatcher-1.1.1.jar",
       "relative_path": "libraries/net/minecraftforge/binarypatcher/1.1.1/binarypatcher-1.1.1.jar",
       "sha1": "23176c4f9fd7a8db961dc0b2ec32ad97ab08513c",
-      "size": 15569
+      "size": 21892
     },
     {
       "url": "https://raw.githubusercontent.com/GenaroArce/launcher-events/main/libraries/net/minecraftforge/bootstrap/2.1.8/bootstrap-2.1.8.jar",
       "relative_path": "libraries/net/minecraftforge/bootstrap/2.1.8/bootstrap-2.1.8.jar",
       "sha1": "7ce55508387cf35eeb0eb4895bd84bec854ead93",
-      "size": 5308
+      "size": 11124
     },
     {
       "url": "https://raw.githubusercontent.com/GenaroArce/launcher-events/main/libraries/cpw/mods/securejarhandler/2.1.10/securejarhandler-2.1.10.jar",
@@ -23,67 +23,67 @@
       "url": "https://raw.githubusercontent.com/GenaroArce/launcher-events/main/libraries/net/minecraftforge/bootstrap-api/2.1.8/bootstrap-api-2.1.8.jar",
       "relative_path": "libraries/net/minecraftforge/bootstrap-api/2.1.8/bootstrap-api-2.1.8.jar",
       "sha1": "f77d6527282dfc12e2460a3155467f40f9a2673b",
-      "size": 2697
+      "size": 2059
     },
     {
       "url": "https://raw.githubusercontent.com/GenaroArce/launcher-events/main/libraries/net/minecraftforge/ForgeAutoRenamingTool/1.0.6/ForgeAutoRenamingTool-1.0.6.jar",
       "relative_path": "libraries/net/minecraftforge/ForgeAutoRenamingTool/1.0.6/ForgeAutoRenamingTool-1.0.6.jar",
       "sha1": "f0cb8d14326a36d7b2b6654d53974844619c8bec",
-      "size": 757870
+      "size": 95836
     },
     {
       "url": "https://raw.githubusercontent.com/GenaroArce/launcher-events/main/libraries/net/minecraftforge/installertools/1.4.0/installertools-1.4.0.jar",
       "relative_path": "libraries/net/minecraftforge/installertools/1.4.0/installertools-1.4.0.jar",
       "sha1": "4447724cfe7cdef8e6e9fa0dea7da8d94aa52734",
-      "size": 178550
+      "size": 87392
     },
     {
       "url": "https://raw.githubusercontent.com/GenaroArce/launcher-events/main/libraries/net/minecraftforge/jarsplitter/1.1.4/jarsplitter-1.1.4.jar",
       "relative_path": "libraries/net/minecraftforge/jarsplitter/1.1.4/jarsplitter-1.1.4.jar",
       "sha1": "57ce2d6564c1176b23a911ef57127ff3c45bffb3",
-      "size": 11333
+      "size": 7405
     },
     {
       "url": "https://raw.githubusercontent.com/GenaroArce/launcher-events/main/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.4.10/lowcodelanguage-1.20.1-47.4.10.jar",
       "relative_path": "libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.4.10/lowcodelanguage-1.20.1-47.4.10.jar",
       "sha1": "e9a2879fe3612ea34b9728ec2633304a1e67d480",
-      "size": 7372
+      "size": 7398
     },
     {
       "url": "https://raw.githubusercontent.com/GenaroArce/launcher-events/main/libraries/net/minecraftforge/mclanguage/1.20.1-47.4.10/mclanguage-1.20.1-47.4.10.jar",
       "relative_path": "libraries/net/minecraftforge/mclanguage/1.20.1-47.4.10/mclanguage-1.20.1-47.4.10.jar",
       "sha1": "ec5cefbbc65c67302b8fac317010faab85fa14b9",
-      "size": 5017
+      "size": 4999
     },
     {
       "url": "https://raw.githubusercontent.com/GenaroArce/launcher-events/main/libraries/net/minecraftforge/mergetool-api/1.0/mergetool-api-1.0.jar",
       "relative_path": "libraries/net/minecraftforge/mergetool-api/1.0/mergetool-api-1.0.jar",
       "sha1": "589fac8080d2eb657bb37f464151abcd25524d64",
-      "size": 2572
+      "size": 2624
     },
     {
       "url": "https://raw.githubusercontent.com/GenaroArce/launcher-events/main/libraries/net/minecraftforge/modlauncher/10.1.2/modlauncher-10.1.2.jar",
       "relative_path": "libraries/net/minecraftforge/modlauncher/10.1.2/modlauncher-10.1.2.jar",
-      "sha1": "06d9443f56f50bb85cea383686ff9c867391458b",
-      "size": 130343
+      "sha1": "58d8bf1f2b5f892bdcbc852098eccb687dcb55fb",
+      "size": 124508
     },
     {
       "url": "https://raw.githubusercontent.com/GenaroArce/launcher-events/main/libraries/net/minecraftforge/securemodules/2.2.21/securemodules-2.2.21.jar",
       "relative_path": "libraries/net/minecraftforge/securemodules/2.2.21/securemodules-2.2.21.jar",
-      "sha1": "aa346a0dc251eeebd2c4d2462c369e9d08c0622a",
-      "size": 33261
+      "sha1": "a036e07b6064da635df3a3480591884fca3714d4",
+      "size": 99261
     },
     {
       "url": "https://raw.githubusercontent.com/GenaroArce/launcher-events/main/libraries/net/minecraftforge/srgutils/0.4.9/srgutils-0.4.9.jar",
       "relative_path": "libraries/net/minecraftforge/srgutils/0.4.9/srgutils-0.4.9.jar",
-      "sha1": "ca408b131759478f164e010fae0d73997e125fb5",
-      "size": 69393
+      "sha1": "7595dae3ad2554b1dac30ae3a9521bd026639e38",
+      "size": 69076
     },
     {
       "url": "https://raw.githubusercontent.com/GenaroArce/launcher-events/main/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.4.10/javafmllanguage-1.20.1-47.4.10.jar",
       "relative_path": "libraries/net/minecraftforge/javafmllanguage/1.20.1-47.4.10/javafmllanguage-1.20.1-47.4.10.jar",
       "sha1": "ccc533c7dd67e0983217197d7549c8b49e7ab453",
-      "size": 16896
+      "size": 16854
     },
     {
       "url": "https://raw.githubusercontent.com/GenaroArce/launcher-events/main/libraries/org/ow2/asm/asm/9.8/asm-9.8.jar",
@@ -197,7 +197,7 @@
       "url": "https://raw.githubusercontent.com/GenaroArce/launcher-events/main/libraries/net/minecraftforge/fmlcore/1.20.1-47.4.10/fmlcore-1.20.1-47.4.10.jar",
       "relative_path": "libraries/net/minecraftforge/fmlcore/1.20.1-47.4.10/fmlcore-1.20.1-47.4.10.jar",
       "sha1": "94dae566be650566ea9115a1414ab76bfcf5a804",
-      "size": 1000
+      "size": 118913
     },
     {
       "url": "https://raw.githubusercontent.com/GenaroArce/launcher-events/main/libraries/org/jline/jline-reader/3.12.1/jline-reader-3.12.1.jar",
