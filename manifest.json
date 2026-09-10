@@ -2,6 +2,12 @@
   "minecraft_version": "1.20.1",
   "files": [
     {
+      "url": "https://raw.githubusercontent.com/GenaroArce/launcher-events/main/assets/indexes/1.20.json",
+      "relative_path": "assets/indexes/1.20.json",
+      "sha1": null,
+      "size": null
+    },
+    {
       "url": "https://raw.githubusercontent.com/GenaroArce/launcher-events/main/libraries/net/minecraftforge/binarypatcher/1.1.1/binarypatcher-1.1.1.jar",
       "relative_path": "libraries/net/minecraftforge/binarypatcher/1.1.1/binarypatcher-1.1.1.jar",
       "sha1": "23176c4f9fd7a8db961dc0b2ec32ad97ab08513c",
