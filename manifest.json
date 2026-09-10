@@ -116,6 +116,12 @@
       "size": 15977
     },
     {
+      "url": "https://raw.githubusercontent.com/GenaroArce/launcher-events/main/libraries/net/minecraftforge/fmlcore/1.20.1-47.4.10/fmlcore-1.20.1-47.4.10.jar",
+      "relative_path": "libraries/net/minecraftforge/fmlcore/1.20.1-47.4.10/fmlcore-1.20.1-47.4.10.jar",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "size": 1000
+    },
+    {
       "url": "https://raw.githubusercontent.com/GenaroArce/launcher-events/main/libraries/org/jline/jline-reader/3.12.1/jline-reader-3.12.1.jar",
       "relative_path": "libraries/org/jline/jline-reader/3.12.1/jline-reader-3.12.1.jar",
       "sha1": "4382ab1382c7b6f379377ed5f665dc2f6e1218bc",
