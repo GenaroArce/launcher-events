@@ -14,8 +14,8 @@
       "size": 5308
     },
     {
-      "url": "https://raw.githubusercontent.com/GenaroArce/launcher-events/main/libraries/net/minecraftforge/bootstrap-api/2.1.2/bootstrap-api-2.1.2.jar",
-      "relative_path": "libraries/net/minecraftforge/bootstrap-api/2.1.2/bootstrap-api-2.1.2.jar",
+      "url": "https://raw.githubusercontent.com/GenaroArce/launcher-events/main/libraries/net/minecraftforge/bootstrap-api/2.1.8/bootstrap-api-2.1.8.jar",
+      "relative_path": "libraries/net/minecraftforge/bootstrap-api/2.1.8/bootstrap-api-2.1.8.jar",
       "sha1": "e4f509da009a250325bdfa5a415ff68f6bf79e27",
       "size": 2697
     },
