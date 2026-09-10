@@ -3,7 +3,7 @@
   "files": [
     {
       "url": "https://raw.githubusercontent.com/GenaroArce/launcher-events/main/libraries/net/minecraftforge/binarypatcher/1.1.1/binarypatcher-1.1.1.jar",
-      "relative_path": "libraries/net/minecraftforge/binarypatcher/1.1.0/binarypatcher-1.1.1.jar",
+      "relative_path": "libraries/net/minecraftforge/binarypatcher/1.1.1/binarypatcher-1.1.1.jar",
       "sha1": "ff57df494264c403bcbd42c52fc34e5d5e10ad10",
       "size": 15569
     },
