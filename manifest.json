@@ -50,34 +50,28 @@
       "size": 5017
     },
     {
-      "url": "https://raw.githubusercontent.com/GenaroArce/launcher-events/main/libraries/net/minecraftforge/mergetool-api/1.1.5/mergetool-api-1.1.5.jar",
-      "relative_path": "libraries/net/minecraftforge/mergetool-api/1.1.5/mergetool-api-1.1.5.jar",
+      "url": "https://raw.githubusercontent.com/GenaroArce/launcher-events/main/libraries/net/minecraftforge/mergetool-api/1.0/mergetool-api-1.0.jar",
+      "relative_path": "libraries/net/minecraftforge/mergetool-api/1.0/mergetool-api-1.0.jar",
       "sha1": "f3da18e12c696d35a47c82cbb2cc8b5aa15e1154",
       "size": 2572
     },
     {
-      "url": "https://raw.githubusercontent.com/GenaroArce/launcher-events/main/libraries/net/minecraftforge/modlauncher/10.0.9/modlauncher-10.0.9.jar",
-      "relative_path": "libraries/net/minecraftforge/modlauncher/10.0.9/modlauncher-10.0.9.jar",
+      "url": "https://raw.githubusercontent.com/GenaroArce/launcher-events/main/libraries/net/minecraftforge/modlauncher/10.1.2/modlauncher-10.1.2.jar",
+      "relative_path": "libraries/net/minecraftforge/modlauncher/10.1.2/modlauncher-10.1.2.jar",
       "sha1": "06d9443f56f50bb85cea383686ff9c867391458b",
       "size": 130343
     },
     {
-      "url": "https://raw.githubusercontent.com/GenaroArce/launcher-events/main/libraries/net/minecraftforge/securemodules/2.2.9/securemodules-2.2.9.jar",
-      "relative_path": "libraries/net/minecraftforge/securemodules/2.2.9/securemodules-2.2.9.jar",
+      "url": "https://raw.githubusercontent.com/GenaroArce/launcher-events/main/libraries/net/minecraftforge/securemodules/2.2.21/securemodules-2.2.21.jar",
+      "relative_path": "libraries/net/minecraftforge/securemodules/2.2.21/securemodules-2.2.21.jar",
       "sha1": "aa346a0dc251eeebd2c4d2462c369e9d08c0622a",
       "size": 33261
     },
     {
-      "url": "https://raw.githubusercontent.com/GenaroArce/launcher-events/main/libraries/net/minecraftforge/srgutils/0.4.15/srgutils-0.4.15.jar",
-      "relative_path": "libraries/net/minecraftforge/srgutils/0.4.15/srgutils-0.4.15.jar",
+      "url": "https://raw.githubusercontent.com/GenaroArce/launcher-events/main/libraries/net/minecraftforge/srgutils/0.4.9/srgutils-0.4.9.jar",
+      "relative_path": "libraries/net/minecraftforge/srgutils/0.4.9/srgutils-0.4.9.jar",
       "sha1": "ca408b131759478f164e010fae0d73997e125fb5",
       "size": 69393
-    },
-    {
-      "url": "https://raw.githubusercontent.com/GenaroArce/launcher-events/main/libraries/cpw/mods/securejarhandler/2.1.10/securejarhandler-2.1.10.jar",
-      "relative_path": "libraries/cpw/mods/securejarhandler/2.1.10/securejarhandler-2.1.10.jar",
-      "sha1": "51e6a22c6c716beb11e244bf5b8be480f51dd6b5",
-      "size": 88749
     },
     {
       "url": "https://raw.githubusercontent.com/GenaroArce/launcher-events/main/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.4.10/javafmllanguage-1.20.1-47.4.10.jar",
