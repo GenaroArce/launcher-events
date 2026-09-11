@@ -1,5 +1,6 @@
 {
   "minecraft_version": "1.20.1",
+  "assets_index": "1.20",
   "files": [
     {
       "url": "https://raw.githubusercontent.com/GenaroArce/launcher-events/main/assets/indexes/1.20.json",
