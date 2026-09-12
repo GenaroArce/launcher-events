@@ -1,4 +1,5 @@
 {
+  "version": "14.17",
   "enable": true,
   "loadlist": [
     {
@@ -8,7 +9,9 @@
     },
     {
       "name": "Mojang",
-      "type": "MojangAPI"
+      "type": "MojangAPI",
+      "apiRoot": "https://api.mojang.com/",
+      "sessionRoot": "https://sessionserver.mojang.com/"
     }
   ],
   "enableDynamicSkull": true,
