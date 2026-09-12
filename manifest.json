@@ -692,7 +692,7 @@
     },
     {
       "url": "https://raw.githubusercontent.com/GenaroArce/launcher-events/main/mods/Customskinloader.json",
-      "relative_path": "config/CustomSkinLoader/CustomSkinLoader.json"
+      "relative_path": "CustomSkinLoader/CustomSkinLoader.json"
     }
   ]
 }
