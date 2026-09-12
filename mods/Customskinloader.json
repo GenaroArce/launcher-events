@@ -1,0 +1,22 @@
+{
+  "enable": true,
+  "loadlist": [
+    {
+      "name": "CafeteriaHumilde",
+      "type": "CustomSkinAPI",
+      "root": "https://api-skin-launcher.onrender.com/cs1/"
+    },
+    {
+      "name": "Mojang",
+      "type": "MojangAPI"
+    }
+  ],
+  "enableDynamicSkull": true,
+  "enableTransparentSkin": true,
+  "ignoreHttpsCertificate": false,
+  "forceLoadAllTextures": false,
+  "enableCape": true,
+  "threadPoolSize": 1,
+  "cacheExpiry": 30,
+  "enableLocalProfileCache": false
+}
