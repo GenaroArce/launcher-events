@@ -675,6 +675,10 @@
       "size": 16554
     },
     {
+      "url": "https://raw.githubusercontent.com/GenaroArce/launcher-events/main/libraries/net/minecraftforge/forge/1.20.1-47.4.10/forge-1.20.1-47.4.10-universal.jar",
+      "relative_path": "libraries/net/minecraftforge/forge/1.20.1-47.4.10/forge-1.20.1-47.4.10-universal.jar"
+    },
+    {
       "url": "https://raw.githubusercontent.com/GenaroArce/launcher-events/main/versions/1.20.1/1.20.1.json",
       "relative_path": "versions/1.20.1/1.20.1.json",
       "sha1": "19f5ae58f9c31bd3b0923cb822e99e3162bd62ab",
