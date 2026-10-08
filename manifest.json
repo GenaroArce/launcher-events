@@ -695,6 +695,10 @@
       "relative_path": "mods/CustomSkinLoader-Forge-1.20.1.jar"
     },
     {
+      "url": "https://raw.githubusercontent.com/GenaroArce/launcher-events/main/mods/colamod-0.1.0.jar",
+      "relative_path": "mods/colamod-0.1.0.jar"
+    }.
+    {
       "url": "https://raw.githubusercontent.com/GenaroArce/launcher-events/main/mods/Customskinloader.json",
       "relative_path": "CustomSkinLoader/CustomSkinLoader.json"
     }
